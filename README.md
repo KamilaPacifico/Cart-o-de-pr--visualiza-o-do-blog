@@ -14,9 +14,8 @@ Os usuários devem ser capazes de ver os estados de foco e de hover de todos os 
 
 ### Links
 
-- Código no GitHub: https://github.com/KamilaPacifico/blog-preview-card
-- Site publicado: https://kamilapacifico.github.io/blog-preview-card/
-
+- Código no GitHub: https://kamilapacifico.github.io/Cart-o-de-pr--visualiza-o-do-blog
+- Site publicado: https://kamilapacifico.github.io/Cart-o-de-pr--visualiza-o-do-blog/
 ## Meu processo
 
 ### Construído com
